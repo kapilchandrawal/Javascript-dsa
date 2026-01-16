@@ -3,7 +3,6 @@ function evn(n) {
   if (n % 2 == 0) {
     return `"${n}" is even`;
   } else {
-    // return "Number is odd";
     return `'${n}' is odd`;
   }
 }
